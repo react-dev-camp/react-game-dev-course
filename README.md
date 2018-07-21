@@ -4,6 +4,8 @@
 
 ## Sprites
 
+![sprites animation](https://raw.githubusercontent.com/react-dev-camp/react-game-dev-course/master/lessons/1_sprites/assets/sprites.gif)
+
 [javascript version](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/javascript)
 
 [typescript version](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/typescript)
