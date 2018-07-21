@@ -4,9 +4,9 @@
 
 ## Sprites
 
-[javascript](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/javascript)
+[javascript version](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/javascript)
 
-[typescript](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/typescript)
+[typescript version](https://codesandbox.io/s/github/react-dev-camp/react-game-dev-course/tree/master/lessons/1_sprites/typescript)
 
 # License
 
